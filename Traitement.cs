@@ -104,16 +104,13 @@ class Traitement
                     {
                         sum *= int.Parse(m.Value);
                         numbersAround ++;
-                        Console.WriteLine(m.Value);
                     }
                 }
         }
         if(numbersAround > 1)
         {
-            Console.WriteLine("OOOOOOK");
             return sum;
         }
-        Console.WriteLine("NOOOOOOOOOOOOOOOOOOOOPE");
         return 0;
     }
 
