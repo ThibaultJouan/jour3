@@ -1,0 +1,15 @@
+/home/chauca/Documents/Dev/CSharp/aoc/jour3/bin/Debug/net7.0/jour3
+/home/chauca/Documents/Dev/CSharp/aoc/jour3/bin/Debug/net7.0/jour3.deps.json
+/home/chauca/Documents/Dev/CSharp/aoc/jour3/bin/Debug/net7.0/jour3.runtimeconfig.json
+/home/chauca/Documents/Dev/CSharp/aoc/jour3/bin/Debug/net7.0/jour3.dll
+/home/chauca/Documents/Dev/CSharp/aoc/jour3/bin/Debug/net7.0/jour3.pdb
+/home/chauca/Documents/Dev/CSharp/aoc/jour3/obj/Debug/net7.0/jour3.csproj.AssemblyReference.cache
+/home/chauca/Documents/Dev/CSharp/aoc/jour3/obj/Debug/net7.0/jour3.GeneratedMSBuildEditorConfig.editorconfig
+/home/chauca/Documents/Dev/CSharp/aoc/jour3/obj/Debug/net7.0/jour3.AssemblyInfoInputs.cache
+/home/chauca/Documents/Dev/CSharp/aoc/jour3/obj/Debug/net7.0/jour3.AssemblyInfo.cs
+/home/chauca/Documents/Dev/CSharp/aoc/jour3/obj/Debug/net7.0/jour3.csproj.CoreCompileInputs.cache
+/home/chauca/Documents/Dev/CSharp/aoc/jour3/obj/Debug/net7.0/jour3.dll
+/home/chauca/Documents/Dev/CSharp/aoc/jour3/obj/Debug/net7.0/refint/jour3.dll
+/home/chauca/Documents/Dev/CSharp/aoc/jour3/obj/Debug/net7.0/jour3.pdb
+/home/chauca/Documents/Dev/CSharp/aoc/jour3/obj/Debug/net7.0/jour3.genruntimeconfig.cache
+/home/chauca/Documents/Dev/CSharp/aoc/jour3/obj/Debug/net7.0/ref/jour3.dll
